@@ -1,0 +1,5 @@
+ecdsa==0.13
+future==0.16.0
+pycryptodome==3.5.1
+python-jose==2.0.2
+six==1.11.0

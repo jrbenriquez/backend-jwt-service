@@ -1,6 +1,7 @@
 from datetime import datetime, timedelta
 
-from pahiram.models import User
+# REPLACE THIS WITH YOUR USER INSTANCE
+from app.models import User
 from jose import jwt, JWTError
 from jose.constants import ALGORITHMS
 
